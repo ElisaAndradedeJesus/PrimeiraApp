@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Herbopedia</string>
+    <string name="et_text_hint">Digite algo...</string>
+    <string name="enviar_button">enviar</string>
+</resources>
